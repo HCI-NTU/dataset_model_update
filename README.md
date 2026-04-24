@@ -1,2 +1,3 @@
 This repository provides a complete list of images used in this study. Each text file corresponds to a dataset split and category folder, enumerating the image filenames included in our experiments to ensure transparency and reproducibility.
+
 Kim, J., Wang, Z., Yoo, J., and Chang, H. "Interaction Effects of Dataset Design and Model Training Strategies on Computer Vision Performance in Multi-stage Construction."
